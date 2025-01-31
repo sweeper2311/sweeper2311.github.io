@@ -9,7 +9,7 @@ h1{
   position: center;
 }
 
-tbody .element{
+tbody{
   background-color: #e6e2d3;
   position: center;
   column-width: auto;
