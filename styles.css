@@ -11,7 +11,7 @@ h1{
 
 tbody{
   background-color: #e6e2d3;
-  position: center;
+  position: auto;
   column-width: auto;
   height: 20px;
 }
