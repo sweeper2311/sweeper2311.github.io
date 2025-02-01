@@ -15,3 +15,7 @@ tbody{
   column-width: auto;
   height: 20px;
 }
+
+head{
+  background-image: url(head_background.png);
+}
