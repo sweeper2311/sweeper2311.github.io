@@ -11,6 +11,13 @@ h1{
   position: center;
 }
 
+h2{
+  font-size: 24px
+    font-family: 'times new roman';
+  position: center;
+  margin: 0 auto;
+}
+
 tbody{
   background-color: #e6e2d3;
   position: 0 auto;
