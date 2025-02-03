@@ -10,6 +10,7 @@ h1{
   color: #b9936c;
   position: center;
   margin: 0 auto;
+  text-align: center;
 }
 
 h2{
@@ -17,6 +18,7 @@ h2{
     font-family: 'comic sans MS';
    margin: 0 auto;
    color: brown;
+   text-align: center;
 }
 
 tbody{
@@ -28,4 +30,6 @@ tbody{
   text-align:center;
 }
 
-
+table{
+  margin: 0 auto;
+}
