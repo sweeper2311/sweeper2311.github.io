@@ -13,7 +13,7 @@ h1{
 
 h2{
   font-size: 24px;
-    font-family: 'times new roman';
+    font-family: 'comic sans';
   position: center;
   margin: 0 auto;
 }
@@ -27,6 +27,4 @@ tbody{
   text-align:center;
 }
 
-head{
-  background-image: url(head_background.png);
-}
+
