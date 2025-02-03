@@ -39,4 +39,6 @@ table{
 
 .header{
   background-image: url(head_background.png);
+  height:fit-content;
+  width:auto;
 }
