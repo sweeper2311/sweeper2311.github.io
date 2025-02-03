@@ -9,6 +9,7 @@ h1{
   font-family: 'times new roman';
   color: #b9936c;
   position: center;
+  margin: 0 auto;
 }
 
 h2{
@@ -23,7 +24,7 @@ tbody{
   position: 0 auto;
   column-width: auto;
   height: 20px;
-  margin: auto;
+  margin: 0 auto;
   text-align:center;
 }
 
