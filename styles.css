@@ -11,6 +11,7 @@ h1{
   position: center;
   margin: 0 auto;
   text-align: center;
+  height: fit-content;
 }
 
 h2{
