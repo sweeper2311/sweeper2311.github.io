@@ -40,7 +40,7 @@ table{
 
 .header{
   background-image: url(head_background.png);
-  background-size:auto auto;
+  background-size:auto 150px;
   background-repeat: no-repeat;
   background-color: white;
 }
