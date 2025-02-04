@@ -5,13 +5,13 @@ body{
 }
 
 h1{
-  font: size 60px;
+  font-size:  60px;
   font-family: 'times new roman';
   color: #5C4033;
   position: center;
   margin: auto;
   text-align: center;
-  height: fit-content;
+  
 }
 
 h2{
@@ -40,7 +40,7 @@ table{
 
 .header{
   background-image: url(head_background.png);
-  background-size:auto 450px;
+  background-size:auto 250px;
   background-repeat: no-repeat;
   background-color: white;
   opacity: 35%;
