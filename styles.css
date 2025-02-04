@@ -5,12 +5,15 @@ body{
 }
 
 h1{
+  display: flex;
   font-size:  60px;
   font-family: 'times new roman';
   color: #5C4033;
   position: center;
   margin: auto;
   text-align: center;
+  align-items: center;
+  justify-content: center;
   
 }
 
