@@ -8,8 +8,7 @@ h1{
   display: flex;
   font-size:  60px;
   font-family: 'times new roman';
-  color: #452e23;
-  position: center;
+  color: hsl(18, 42%, 5%);
   margin: auto;
   text-align: center;
   align-items: center;
